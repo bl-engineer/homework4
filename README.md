@@ -103,4 +103,7 @@ You are required to submit BOTH of the following for review:
 © Done by: Bocar Ly
 Assigment: Week 4 Homework 
 
+
+[Deployed_URL](https://bl-engineer.github.io/homework4/)
+
 [Github_URL](https://github.com/bl-engineer/homework4)
