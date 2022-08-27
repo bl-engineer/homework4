@@ -95,6 +95,16 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
 
+
+##Result: three screenshots of the result
+<img width="1482" alt="Screen Shot 2022-08-27 at 11 44 42 AM" src="https://user-images.githubusercontent.com/15242022/187038050-d140a99c-6a3c-4cc0-b9ad-9f20fcc769bb.png">
+
+<img width="1482" alt="Screen Shot 2022-08-27 at 11 35 35 AM" src="https://user-images.githubusercontent.com/15242022/187038162-b649667d-561e-425e-89b4-2e4bad0928e3.png">
+
+<img width="1482" alt="Screen Shot 2022-08-27 at 11 36 39 AM" src="https://user-images.githubusercontent.com/15242022/187038181-e8aa0229-6f70-40fb-9926-5b8f60ef9e48.png">
+
+<img width="1482" alt="Screen Shot 2022-08-27 at 11 35 35 AM" src="https://user-images.githubusercontent.com/15242022/187038214-c6130f0c-0d90-4c71-b157-a94eb96c5132.png">
+
 ---
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
